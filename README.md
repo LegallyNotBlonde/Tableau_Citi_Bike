@@ -2,7 +2,7 @@
 
 ## Short Project Overview
 Analysis of Citi Bike usage from February to April 2024.
-Please see 'Tableau_Citi_Bikes' file for visualization or check my **[Tableau Public Book](https://public.tableau.com/app/profile/sabrina.linden/viz/Book4_17254336170670/MainStory?publish=yes).
+Please see **['Tableau_Citi_Bikes'](https://github.com/LegallyNotBlonde/Tableau_Citi_Bike/blob/main/Tableau_Citi_Bikes.twbx)** file for visualization or check my **[Tableau Public Book](https://public.tableau.com/app/profile/sabrina.linden/viz/Book4_17254336170670/MainStory?publish=yes).**
 
 ## Key Findings (Tableau)
 
