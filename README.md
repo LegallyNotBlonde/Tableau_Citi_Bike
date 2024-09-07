@@ -17,6 +17,7 @@ Please see **['Tableau_Citi_Bikes'](https://github.com/LegallyNotBlonde/Tableau_
 3. **Low Demand in February:** February shows the lowest demand, making it ideal for scheduling maintenance to minimize service disruptions.
 
 4. **Most Popular Stations:** This dashboard shows New Jersey is the most popular starting and ending point for rides, with few, if any, trips from New York to New Jersey.
+* **Recommendation:**  Optimize bike distribution by ensuring sufficient bikes in New Jersey during peak hours and increasing availability at popular end stations in both New Jersey and New York to prevent shortages and congestion. Additionally, promote cross-city trips and analyze time-of-day patterns to further balance bike supply and demand.
 
 
 ## Methodology
