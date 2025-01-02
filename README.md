@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project analyzes Citi Bike usage data from February to April 2024 for the New York metropolitan area, focusing on identifying trends, anomalies, and opportunities for improvement.
+This project analyzes Citi Bike usage data from February to April 2024 for the New York metropolitan area, focusing on identifying trends, anomalies, and opportunities for improvement. 
+Expanding the analysis period to include a full year of data is recommended to ensure the accuracy and consistency of findings across different seasons.
 
 The **Tableau_Citi_Bikes'** includes the Tableau workbook, and you can explore the interactive dashboards on my **[Tableau Public Book](https://public.tableau.com/app/profile/sabrina.linden/viz/Book4_17254336170670/MainStory?publish=yes).**
 ___
@@ -35,6 +36,7 @@ The graphs effectively illustrate some of the key findings, highlighting pattern
 
 3. **Identifying the Month with the Lowest Demand:** 
 <p> In the New York metropolitan area, February experiences the lowest ride demand, making it the ideal time to schedule maintenance and minimize disruptions.
+
 The graphs below illustrate these findings:
 
 ![Bike demand By Month](https://github.com/LegallyNotBlonde/Tableau_Citi_Bike/blob/main/Images/Bike%20Demand%20By%20Month.png) 
@@ -48,7 +50,7 @@ The graphs below illustrate these findings:
 * Ensure sufficient bike availability at high-demand end stations to reduce shortages and congestion.
 ___
 
-## How This Analysis Helps the Company
+## How This Analysis Benefits the Company and Its Riders/Clients
 
 <p> Implementing the recommendations listed above will provide Citi Bike with key benefits, including:
 
