@@ -48,7 +48,7 @@ The graphs below illustrate these findings:
 * Ensure sufficient bike availability at high-demand end stations to reduce shortages and congestion.
 ___
 
-## **Conclusion** 
+## How This Analysis Helps the Company
 
 <p> Implementing the recommendations listed above will provide Citi Bike with key benefits, including:
 
