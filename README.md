@@ -1,13 +1,14 @@
 # Tableau_Citi_Bike
 
-## Short Project Overview
+## Project Overview
 
 This project analyzes Citi Bike usage data from February to April 2024 for the New York metropolitan area, focusing on identifying trends, anomalies, and opportunities for improvement.
 
-The **['Tableau_Citi_Bikes'](https://github.com/LegallyNotBlonde/Tableau_Citi_Bike/blob/main/Tableau_Citi_Bikes.twbx)** includes the Tableau workbook, and you can explore the interactive dashboards on my **[Tableau Public Book](https://public.tableau.com/app/profile/sabrina.linden/viz/Book4_17254336170670/MainStory?publish=yes).**
+The **Tableau_Citi_Bikes'** includes the Tableau workbook, and you can explore the interactive dashboards on my **[Tableau Public Book](https://public.tableau.com/app/profile/sabrina.linden/viz/Book4_17254336170670/MainStory?publish=yes).**
 ___
 
 ## Key Findings (Tableau)
+The graphs effectively illustrate some of the key findings, highlighting patterns and insights in the data.
 
 1. **Long Duration Rides:** 
 <p> Classic bikes exhibit a higher number of long-duration rides (over 20 hours) compared to electric bikes, especially among casual users. These rides are not typically associated with long distances, suggesting possible user errors (e.g., forgetting to check out) or technical issues.
@@ -18,6 +19,7 @@ ___
 * **Recommendation:** 
 * Investigate potential system issues or user behavior. 
 * Implement alerts or reminders to prevent extended rides, improving bike availability and reducing unexpected charges.
+
 
 2. **Peak vs. Long Rides:** 
 <p> Peak commuting hours show high usage but not longer ride durations. Longer rides are observed during midday, early mornings, and weekends, indicating leisure or exercise use.
@@ -45,7 +47,7 @@ The graphs below illustrate these findings:
 * Ensure sufficient bike availability at high-demand end stations to reduce shortages and congestion.
 ___
 
-* **Conclusion:** 
+## **Conclusion:** 
 
 <p> Implementing the recommendations listed above will provide Citi Bike with key benefits, including:
 
@@ -59,8 +61,10 @@ ___
 ___
 
 ## Methodology
-* **Data Cleaning:** Pandas Libraries
-* **Visualization:** Tableau
+* **Data Collection:** Downloaded annual trip data as ZIP files
+* **Data Cleaning:** Processed and cleaned datasets using Pandas to handle missing values and ensure consistency
+* **Analysis:** Performed exploratory data analysis (EDA) to identify trends and anomalies
+* **Visualization:** Designed interactive dashboards in Tableau to present insights effectively
 ___
 
 ## Resources
