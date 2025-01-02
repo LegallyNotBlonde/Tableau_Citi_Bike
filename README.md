@@ -28,6 +28,7 @@ The graphs effectively illustrate some of the key findings, highlighting pattern
 
 ![Bike Demand By Weekday](https://github.com/LegallyNotBlonde/Tableau_Citi_Bike/blob/main/Images/Bike%20deman%20By%20Weekday.png) 
 
+* **Recommendation:** 
 * Expand station coverage near parks and popular leisure areas.
 * Promote biking for both commuting and leisure during non-peak hours through targeted campaigns.
 
@@ -47,7 +48,7 @@ The graphs below illustrate these findings:
 * Ensure sufficient bike availability at high-demand end stations to reduce shortages and congestion.
 ___
 
-## **Conclusion:** 
+## **Conclusion** 
 
 <p> Implementing the recommendations listed above will provide Citi Bike with key benefits, including:
 
@@ -58,6 +59,7 @@ ___
 * **Balanced Demand:** Better distribution reduces shortages and improves efficiency.
 
 <p> These strategies address current challenges and position Citi Bike for growth and improved user satisfaction.
+
 ___
 
 ## Methodology
